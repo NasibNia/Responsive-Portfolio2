@@ -1,6 +1,6 @@
 <!-- Put the name of the project after the # -->
 <!-- the # means h1  -->
-# Nasib in the Responsive land!
+# Nasib in the Responsiveness land!
 
 <!-- Put a description of what the project is -->
 
@@ -10,7 +10,7 @@ Practicing html, css, floats, positioning, fonts, styling, page layout, media qu
 <!-- make a link to the deployed site --> 
 <!-- [What the user will see](the link to the deployed site) -->
 
-[NASIB in the WebLand](https://nasibnia.github.io/Responsive-Portfolio2/)
+[NASIB in Responsiveness Land](https://nasibnia.github.io/Responsive-Portfolio2/)
 
 
 # Images
